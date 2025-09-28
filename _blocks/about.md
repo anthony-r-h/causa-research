@@ -2,7 +2,7 @@
 name: about
 type: primary
 title: Tracing the First Causes of Market Shifts.
-button_text: Get Started!
+# button_text: Get Started!
 button_url: '#'
 menu_text:  # If left blank this defaults to the id
 menu_exclude: false
