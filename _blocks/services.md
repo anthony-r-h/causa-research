@@ -1,6 +1,6 @@
 ---
 name: services
-type: light
+type: dark
 title: Sectors
 button_text: # Blank means no button
 button_url: 
