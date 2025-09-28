@@ -1,11 +1,12 @@
 ---
 name: about
 type: primary
-title: We've got what you need!
+title: Tracing the First Causes of Market Shifts.
 button_text: Get Started!
 button_url: '#'
 menu_text:  # If left blank this defaults to the id
 menu_exclude: false
 width: 8 # With of the main block
 ---
-Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+
+Markets today are driven less by earnings beats and more by policy, geopolitics, and the infrastructure behind intelligence. From defense procurement to semiconductor supply chains to critical minerals, capital now flows where governments set priorities and rivalries shape outcomes. At Causa Research, we cut through noise with independent analysis, tracing the first causes of market shifts so you see where power meets markets before the consensus does.
