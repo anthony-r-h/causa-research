@@ -1,14 +1,14 @@
 ---
 name: services
 type: light
-title: At Your Service
+title: Sectors
 button_text: # Blank means no button
 button_url: 
 menu_text:  # If left blank this defaults to the id
 menu_exclude: false
 cols: # Title \ Text \ Font awesome icon \ url
- - Sturdy Templates\Our templates are updated regularly so they don't break. \ diamond
- - Ready to Ship \ You can use this theme as is, or you can make changes! \ paper-plane
- - Up to Date \ We update dependencies to keep things fresh. \ newspaper-o
- - Made with Love \ You have to make your websites with love these days! \ heart
+ - AI Infrastructure\Compute, semiconductors, data centers, and energy—the backbone of intelligence. \ fa-microchip
+ - Critical Minerals and Metals \Rare earths, lithium, and tungsten—strategic materials that shape supply chains and security.\ fa-gem
+ - Defense \From procurement cycles to innovation hubs, defense spending defines industrial strategy.\ fa-shield-alt
+ - Industrial Policy \ Legislation, subsidies, and strategic trade policy - where government priorities turn into market outcomes. \ fa-landmark
 ---
