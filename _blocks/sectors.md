@@ -12,3 +12,5 @@ cols: # Title \ Text \ Font awesome icon \ url
  - Defense \From procurement cycles to innovation hubs, defense spending defines industrial strategy.\ fa-shield
  - Industrial Policy \ Legislation, subsidies, and strategic trade policy - where government priorities turn into market outcomes. \ fa-university
 ---
+test tset
+<i class="fas fa-microchip"></i> 
