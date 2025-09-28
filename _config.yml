@@ -1,17 +1,17 @@
 # Site settings
-title: Creative - Start Bootstrap theme
-tagline: Your Favorite Source of Free Bootstrap Themes
+title: Causa Research
+tagline: Policy is alpha
 author: 
-first_button_text: 'Find out more'
+first_button_text: 'The Multibagger'
 first_button_url: '#about'
 header_img: /img/header.jpg
-home_menu_text: Start Bootstrap
-description: Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!
+home_menu_text: Causa Research
+description: Causa Research provides independent insight at the intersection of policy, geopolitics, and markets.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # Theme customization
-primary: '#F05F40'
+primary: '#005555'
 dark: '#222'
 
 # Contact details
