@@ -7,8 +7,8 @@ first_button_url: '#about'
 header_img: /img/header.jpg
 home_menu_text: Causa Research
 description: Causa Research provides independent insight at the intersection of policy, geopolitics, and markets.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://anthony-r-h.github.io"   # your GitHub Pages domain
+baseurl: "/causa-research"              # repo name (project URL path)
 
 # Theme customization
 primary: '#005555'
