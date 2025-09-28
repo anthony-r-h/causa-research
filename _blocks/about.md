@@ -1,6 +1,6 @@
 ---
 name: about
-type: primary
+type: dark
 title: Tracing the First Causes of Market Shifts.
 # button_text: Get Started!
 button_url: '#'
